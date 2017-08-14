@@ -33,7 +33,7 @@ module.exports = {
     en: 'EtherDelta is a decentralized exchange for Ethereum tokens.',
     cn: 'EtherDelta是去中心化的以太坊交易平台。',
     fr: "EtherDelta est une bourse d'échange de jetons ethereum décentralisé.",
-    es: 'EtherDelta se ha posicionado como la primera bolsa de cambio de cryptomonedas y tokens de la blockchain Ethereum.',
+    es: 'EtherDelta es una bolsa de valores descentralizada de cryptomonedas y tokens de la blockchain Ethereum.',
     // cn:'EtherDelta是无中心的以太坊交易平台。'
   },
   Smart_Contract: {
@@ -46,13 +46,13 @@ module.exports = {
     en: 'Smart contract overview',
     cn: '智能合约概貌',
     fr: "Apercu d'ensemble du contrat dit smart",
-    es: 'Estudio del contrato inteligente',
+    es: 'Resumen del contrato inteligente',
   },
   select_account: {
     en: 'Select account',
     cn: '选择账号',
     fr: 'Selection du compte',
-    es: 'Selección de la cuenta',
+    es: 'Selección de cuenta',
   },
   please_select_account: {
     en: 'Please select an account using the account dropdown in the upper right.',
@@ -64,31 +64,31 @@ module.exports = {
     en: 'How-to videos',
     cn: '说明视频',
     fr: 'How-to videos',
-    es: 'A ver las videos',
+    es: 'Videoguias',
   },
   expires_explanation: {
     en: 'The number of Ethereum blocks until the order automatically expires. (14 seconds per block.)',
     cn: '直到订单自动过期的Etherem块的数量。 (每个块都是14秒。)',
     fr: 'Le nombre de blocs Ethereum jusqu\'à ce que l\'ordre expire automatiquement. (Chaque bloc est de 14 secondes.)',
-    es: 'El número de bloques Ethereum hasta que el pedido expire automáticamente. (Cada bloque es de 14 segundos.)',
+    es: 'El número de bloques Ethereum hasta que el pedido expire automáticamente. (14 segundos por bloque.)',
   },
   gas_price: {
     en: 'Gas price',
     cn: '气体价格',
     fr: 'Prix de l\'essence',
-    es: 'Precio del gas',
+    es: 'Precio de gas',
   },
   gas_price_gwei: {
     en: 'Gas price (gwei)',
     cn: '气体价格 (gwei)',
     fr: 'Prix de l\'essence (gwei)',
-    es: 'Precio del gas (gwei)',
+    es: 'Precio de gas (gwei)',
   },
   set_gas_price: {
     en: 'Set gas price',
     cn: '气体价格',
     fr: 'Prix de l\'essence',
-    es: 'Precio del gas',
+    es: 'Precio de gas',
   },
   FAQ: {
     en: 'FAQ',
@@ -137,7 +137,7 @@ module.exports = {
     en: 'Order book',
     cn: '订单簿',
     fr: "Carnet d'ordres",
-    es: 'Cartera de órdenes',
+    es: 'Cartera de pedidos',
   },
   orders: {
     en: 'Orders',
@@ -151,7 +151,7 @@ module.exports = {
     cn: '订阅我们的Twitter',
     // cn:'跟Twitter'
     fr: 'Suivez nous sur Twitter',
-    es: 'Siguenos en Twitter',
+    es: 'Siganos en Twitter',
   },
   chat: {
     en: 'Chat',
@@ -177,7 +177,7 @@ module.exports = {
     en: 'Pair',
     cn: '交易币种',
     fr: 'Paire',
-    es: 'Parejas',
+    es: 'Par',
   },
   produced_etherboost: {
     en: 'Produced by Etherboost',
@@ -190,27 +190,27 @@ module.exports = {
     cn: 'EtherDelta &#8212; 去中心化交易',
     // cn:'EtherDelta &#8212; 无中心交易'
     fr: 'EtherDelta &#8212; échange de jetons décentralisé',
-    es: 'EtherDelta &#8212; échange de jetons décentralisé',
+    es: 'EtherDelta &#8212; intercambio descentralizado de tokens',
   },
   etheropt_desc: {
     en: 'EtherOpt &#8212; decentralized options exchange',
     cn: 'EtherOpt &#8212; 去中心化期权交易',
     // cn:'EtherOpt &#8212; 无中心期权交易'
     fr: "EtherOpt &#8212; marché de change d'options décentralisé",
-    es: 'EtherOpt &#8212; mercado de cambio de opciones descentralisado',
+    es: 'EtherOpt &#8212; intercambio descentralizado de opciones',
   },
   predictiontoken_desc: {
     en: 'PredictionToken &#8212; prediction market tokens',
     cn: 'PredictionToken &#8212; 虚拟货币市场预测',
     // cn:'PredictionToken &#8212; 预测市场币'
     fr: 'PredictionToken &#8212; marché de prédiction de jetons',
-    es: 'PredictionToken &#8212; mercado de prédiccion de simbolicos',
+    es: 'PredictionToken &#8212; mercado de prédiccion de tokens',
   },
   ethereumdollar_desc: {
     en: 'EthereumDollar &#8212; stable dollar token',
     cn: 'EthereumDollar &#8212; 稳定美元币',
     fr: 'EthereumDollar &#8212; jeton de dollar stable',
-    es: 'EthereumDollar &#8212; simbolico de dollar estable',
+    es: 'EthereumDollar &#8212; token de dólar estable',
   },
   toggle_navigation: {
     en: 'Toggle navigation',
@@ -241,19 +241,19 @@ module.exports = {
     en: 'Add account',
     cn: '添加账号',
     fr: 'Ajout de compte',
-    es: 'Ajuntar cuenta',
+    es: 'Añadir cuenta',
   },
   address: {
     en: 'Address',
     cn: '地址',
     fr: 'Adresse',
-    es: 'direccion',
+    es: 'Dirección',
   },
   private_key: {
     en: 'Private key',
     cn: '密钥',
     fr: 'clé privée',
-    es: 'llave privada',
+    es: 'Clave privada',
   },
   buy: {
     en: 'Buy',
@@ -272,14 +272,14 @@ module.exports = {
     cn: '买入量',
     // cn:'买的量'
     fr: "Montant d'achat",
-    es: 'Importe de compra',
+    es: 'Cantidad para comprar',
   },
   amount_to_sell: {
     en: 'Amount to sell',
     cn: '卖出量',
     // cn:'卖的量'
     fr: 'Montant à vendre',
-    es: 'Cantidad a la venta',
+    es: 'Cantidad para vender',
   },
   price: {
     en: 'Price',
@@ -311,13 +311,13 @@ module.exports = {
     cn: 'Etherscan 地址',
     // cn:'Etherscan address'
     fr: 'Adresse Etherscan',
-    es: 'Direccion Etherscan',
+    es: 'Dirección Etherscan',
   },
   Guides: {
     en: 'Guides',
     cn: '指南',
     fr: 'Guides',
-    es: 'Guias',
+    es: 'Guías',
   },
   help: {
     en: 'Help',
@@ -379,6 +379,7 @@ module.exports = {
     en: 'EtherDelta has moved to a new smart contract. Go to the bottom of the page and switch to the old one if you have a balance there you need to withdraw.',
     cn: 'EtherDelta更新了智能合约。如果你要提取余额，请到本页底部转成旧的合约并进行提取。',
     fr: "EtherDelta a ete modifié pour un nouveau smart contract. Allez au bas de page et permutez le avec l'ancien s'il reste du solde à retirer.",
+    es: 'EtherDelta se ha movido a un nuevo contrato inteligente. Vaya al final de la página y cambie al contrato viejo si tiene un balance ahí que necesita retirar.',
   },
   aug302016: {
     en: 'August 30, 2016',
@@ -391,7 +392,7 @@ module.exports = {
     cn: 'EtherDelta更新了智能合约。如果你要提取余额，请到本页底部转成旧的合约并进行提取。',
     // cn:'EtherDelta迁移到了新的智能合约。如果你要提取余额，请到本页底部转成旧的。'
     fr: "EtherDelta utilise un nouveau smart contract. Allez au bas de page et permutez le avec l'ancien s'il vous reste du solde à retirer.",
-    es: 'EtherDelta utiliza un nuevo contrato inteligente.',
+    es: 'EtherDelta se ha movido a un nuevo contrato inteligente. Vaya al final de la página y cambie al contrato viejo si tiene un balance ahí que necesita retirar.',
   },
   new_account: {
     en: 'New account',
@@ -403,19 +404,19 @@ module.exports = {
     en: 'Import account',
     cn: '导入账号',
     fr: 'Importer le compte',
-    es: 'Importar la cuenta',
+    es: 'Importar cuenta',
   },
   export_private_key: {
     en: 'Export private key',
     cn: '导出私钥',
     fr: 'Exporter la clé privée',
-    es: 'Exportar la clave privada',
+    es: 'Exportar clave privada',
   },
   forget_account: {
     en: 'Forget account',
     cn: '忘记账号',
     fr: 'Oublier le compte',
-    es: 'Olvidar la cuenta',
+    es: 'Olvidar cuenta',
   },
   forget_all_accounts: {
     en: 'Forget all accounts',
@@ -427,7 +428,7 @@ module.exports = {
     en: 'Reset cache',
     cn: '重设缓存',
     fr: 'Reset du cache',
-    es: 'Restablecer la caché',
+    es: 'Restablecer caché',
   },
   deposit: {
     en: 'Deposit',
@@ -475,26 +476,26 @@ module.exports = {
     en: 'Other token',
     cn: '其它币',
     fr: 'Autre jeton',
-    es: 'Otro simbolico',
+    es: 'Otro token',
   },
   other_base: {
     en: 'Other base',
     cn: '其它支付币种',
     // cn:'其它币基'
     fr: 'Autre base',
-    es: 'Otra basa',
+    es: 'Otra base',
   },
   connection: {
     en: 'Connection',
     cn: '连接',
     fr: 'Connection',
-    es: 'conexión',
+    es: 'Conexión',
   },
   connect_using: {
     en: 'Connect using',
     cn: '连接采用',
     fr: 'Se Connecter en utilisant',
-    es: 'Conectarse utilisando',
+    es: 'Conectarse utilizando',
   },
   testnet: {
     en: 'TESTNET',
@@ -513,20 +514,20 @@ module.exports = {
     en: 'Mist Browser',
     cn: 'Mist Browser',
     fr: 'Mist Browser',
-    es: 'Mist Browser',
+    es: 'Navegador Mist',
   },
   toggle_dropdown: {
     en: 'Toggle dropdown',
     cn: '转换',
     fr: 'Basculer menu autoderoulant',
-    es: 'Voltear Menu',
+    es: 'Abrir menú desplegable',
   },
   fees: {
     en: 'Fees',
     cn: '费用',
     // cn:'收费',
     fr: 'Frais',
-    es: 'Gasto',
+    es: 'Cuotas',
   },
 
   connect_ethereum: {
@@ -559,7 +560,7 @@ module.exports = {
     cn: '费用',
     // cn:'收费'
     fr: 'Frais',
-    es: 'Gasto',
+    es: 'Cuota',
   },
   maker: {
     en: 'Maker',
@@ -583,7 +584,7 @@ module.exports = {
     en: 'Need help? Join the',
     cn: 'Need help? Join the',
     fr: "Besoin d'aide? Joigner la",
-    es: '¿Necesidad de ayuda?  Unirse al',
+    es: '¿Necesita ayuda?  Únase al',
   },
   chat_gitter: {
     en: 'Chat on Gitter',
@@ -596,7 +597,7 @@ module.exports = {
     cn: '收费仅对Taker. 充值，提现对Maker免费。',
     // cn:'只有Taker收费. 充值，提取，和Maker交易免费。'
     fr: 'Les seuls frais sont ceux du preneur. Gratuité pour les Dépots, les retraits et les teneurs de transactions.',
-    es: 'Los únicos costes son los del arrendatario. Libre para depósitos, retiros y niveles de transacción.',
+    es: 'La única cuota es la tasa del comprador. Depositos, retiros, y transacciones de creador son gratis.',
   },
   maker_fee_desc: {
     en: 'A maker order is one that rests in the order book ("resting order"). To create a maker order, fill out the "Buy" or "Sell" form. Once you click "Buy" or "Sell," you will see your order appear in the order book. These orders are always free. This is to encourage market makers to add liquidity to the order book.',
@@ -620,19 +621,19 @@ module.exports = {
     en: 'Connect to the Ethereum network through <a href="https://metamask.io">MetaMask</a>. MetaMask is a Chrome plugin that lets you manage your Ethereum accounts and sign transactions on a case by case basis. If you are using MetaMask, your MetaMask account will automatically appear in the account dropdown.',
     cn: '通过 <a href="https://metamask.io">MetaMask</a>. MetaMask是Chrome浏览器plugin。可以用它管理你的以太坊账号，给你的交易签名。如果你用MetaMask, 你的MetaMask账号自动出现在账号下拉列表里。',
     fr: 'Connection au reseau Ethereum par <a href="https://metamask.io">MetaMask</a>. MetaMask est un plugin Chrome qui permet de manager ses comptes ethereum et de signer les transactions au cas par cas. Si vous utiliser MetaMask, votre compte MetaMask apparaitra automatiquement dans le menu deroulant.',
-    es: 'La conexión a la red mediante la <a Etereum href="https://metamask.io"> MetaMask </a>. MetaMask es un plugin para Chrome que permite a sus cuentas y transacciones Ethereum gerente de signos caso por caso. Si utiliza MetaMask, MetaMask su cuenta aparecerá automáticamente en el menú desplegable.',
+    es: 'Conectese a la red Ethereum por <a Etereum href="https://metamask.io"> MetaMask </a>. MetaMask es un plugin para Chrome que le permite manejar sus cuentas y firmar transacciones caso por caso. Si utiliza MetaMask, su cuenta MetaMask aparecerá automáticamente en el menú desplegable.',
   },
   connect_mist: {
     en: 'Connect to Ethereum via the Mist browser. The only downside to doing this is that you will have to unlock your account manually in order to broadcast resting orders (other transactions will work). Mist will eventually support the eth.sign() function that is needed to individually approve resting orders, but for now you will need to unlock your account manually by running <code>geth attach</code> and then <code>personal.unlockAccount("0xYOUR_ETHEREUM_ACCOUNT")</code> from the command line.',
     cn: '通过Mist浏览器。这种方式唯一的缺点是： 你要手动解锁你的账号，以便扩散“待定下单”（其它交易可以完成）。Mist最终会支持eth.sign()，需要这个函数来分个批准“待定下单”，但是现在你要通过命令行执行<code>geth attach</code> 并且 执行<code>personal.unlockAccount("0x你的以太坊账号")</code>手动解锁。',
     fr: 'Connection au reseau Ethereum via Mist browser. L\'inconvénient étant que vous devrez déverouiller votre compte manuellement afin de diffuser les ordres restant (les autres transactions fonctionneront). MIST supportera eventuellement la fonction eth.sign() requise pour l\'approbation des ordres restants, pour le moment il vous faudra deverouiller votre compte manuelement en sollicitant <code>geth attach</code> puis <code>personal.unlockAccount("0xVOTRE_COMPTE_ETHEREUM")</code> a partir de la ligne de commande.',
-    es: 'La conexión a la red a través del navegador Ethereum MIST.  La desventaja es que hay que desbloquear su cuenta manualmente para transmitir las órdenes restantes (otras operaciones de trabajo). MIST posiblemente soportar la función eth.sign () requerido para aprobación de las órdenes restantes, por ahora, tendrá que desbloquear cualquier manuelement cuenta solicitando <code> Geth adjuntar </ code> y <code> personal.unlockAccount (" 0xSU_DIRRECCION_DE_CUENTA_ETHEREUM ") </ code> en la línea de comandos.',
+    es: 'Conectese a la red Ethereum mediante el navegador Mist.  La desventaja es que hay que desbloquear su cuenta manualmente para transmitir las órdenes restantes (otras operaciones de trabajo). MIST eventualmente soportará la función eth.sign () requerida para aprobación de órdenes restantes, por ahora, tendrá que desbloquear su cuenta manualmente solicitando <code>geth attach</ code> y después <code>personal.unlockAccount ("0xSU_DIRRECCION_DE_CUENTA_ETHEREUM") </ code> en la línea de comandos.',
   },
   connect_etherscan: {
     en: 'Connect to Ethereum through the Etherscan API. This is the default option if you don\'t have MetaMask or Mist. You will need to create a new account by clicking "Create account" under the address dropdown. You should export the private key and write it down by clicking "Export private key" under the address dropdown. If you prefer, you can also use <a href="http://www.myetherwallet.com/" target="_blank">MyEtherWallet</a> to create a new Ethereum account, then use "Import account" to add your new address and its private key.',
     cn: '通过以太坊API。如果你没有MetaMask或Mist，这是缺省设置。你需要点击“地址”下拉列表“创建账号”创建一个新账号。你要点击“地址”下拉列表“导出私钥”，导出私钥并写下来。你也可以倾向使用<a href="http://www.myetherwallet.com/" target="_blank">MyEtherWallet</a>创建新的以太坊账号，然后用“导入账号”来添加你的新地址和私钥。',
     fr: 'Connection au reseau Ethereum au travers de l\'API Etherscan. C\'est l\'option par défaut si vous ne disposez pas de MIST ou Metamask. Vous aurez besoin de creer un nouveau compte en cliquant "Create account" sous le menu deroulant adresse. Vous devrez exporter la cle privee et l;ecrire, si vous le souhaitez il est possible d\'utiliser <a href="http://www.myetherwallet.com/" target="_blank">MyEtherWallet</a> pour creer un acompte, ensuite utiliser "Importer compte" pour ajouter votre compte et sa cle privee.',
-    es: 'conexión a la red a través del API Etherscan.',
+    es: 'conexión a la red a través del API Etherscan. Esta es la opción por defecto si no tiene Metamask o Mist. Tendrá que crear una nueva cuenta haciendo click en "Nueva cuenta" en el menú. Usted debería exportar la clave privada y escribirla en un lugar seguro, haciendo click en "Exportar clave privada" en el menú. Si prefiere, también puede usar <a href="http://www.myetherwallet.com/" target="_blank">MyEtherWallet</a> para crear una nueva cuenta Ethereum, luego usar "Importar cuenta" para añadir su nueva dirección junto con su clave privada.',
   },
   deposit_withdraw_1: {
     en: 'In the top left, you will find two dropdowns you can use to select the currency pair you want to trade. For example, select "MKR" and "ETH" to trade the "MKR/ETH" currency pair.',
@@ -644,31 +645,31 @@ module.exports = {
     en: 'Under "Balances," you will see your balance for each of the two currencies you selected. This is the balance you have deposited to EtherDelta from your Ethereum account.',
     cn: '在“余额”下面，你可以看到两种币的各自的余额，这是从你的以太坊账号充值的余额。',
     fr: 'Sous "Soldes" vous trouverez le solde pour chacune des deux devises selectionnées. C\'est le solde que vous venez de déposer sur etherdelta depuis votre compte Ethereum',
-    es: 'En "Saldos" se encuentra el equilibrio para cada una de las dos monedas sélectionnées.',
+    es: 'En "Saldos" se encuentra el monto para cada una de las dos monedas que usted seleccionó.',
   },
   deposit_withdraw_3: {
     en: 'To deposit, withdraw, or transfer, scroll to the bottom of the page. Find the "Balances" section.',
     cn: '要“充值”，“提取”，或“转移”，在本页的底部，找到“余额”区域。',
     fr: 'Pour déposer, retirer, ou transferer, faites defiler jusqu\'au bas de page. Trouver la section "Soldes',
-    es: 'Para depositar, retirar o transferencia, por favor Desplazamiento en la parte inferior de la página. Busque la sección "Ventas.',
+    es: 'Para depositar, retirar o transferir, por favor desplazarse hacia la parte inferior de la página. Busque la sección "Ventas".',
   },
   deposit_withdraw_4: {
     en: 'To deposit, click the "Deposit" tab, pick a token, enter an amount you would like to deposit from your Ethereum account into EtherDelta, and click "Deposit."',
     cn: '充值点“充值”，选择一种币，输入从以太坊账号进入EtherDelta的充值数量，再点“充值”。',
     fr: 'Pour déposer, cliquer sur "Deposit" tab, choisir un jeton, entrer le montant à déposer depuis votre compte Ethereum vers Etherdelta, puis cliquer "Deposit".',
-    es: 'Para abonar, haga clic en la pestaña "depósito", elegir un modo, ingrese la cantidad a depositar desde su cuenta a Etereum Etherdelta y haga clic en "depósito.',
+    es: 'Para depositar, haga clic en la pestaña "depósito", elija un token, ingrese la cantidad que desea depositar desde su cuenta Ethereum a Etherdelta y haga clic en "Depositar".',
   },
   deposit_withdraw_5: {
     en: 'To withdraw, use the "Withdraw" tab.',
     cn: '提取点“提取”',
     fr: 'Pour le retrait, utiliser "Retrait" tab.',
-    es: 'Para retirar el dinero, utilizar la pestaña "retira".',
+    es: 'Para retirar el dinero, utilizar la pestaña "Retiro".',
   },
   deposit_withdraw_6: {
     en: 'To transfer tokens from your Ethereum address to another Ethereum address, use the "Transfer" tab.',
     cn: '要将币从你的以太坊账号转到另一个以太坊账号，点“转移”。',
     fr: 'Pour le transfert de jetons depuis votre adresse Ethereum vers une autre adresse Ethereum, utiliser "Transfer" tab.',
-    es: 'Para las transferencias de simbolicos de su dirección Ethereum a otra dirección Ethereum, utilice la ficha "Transferencia".',
+    es: 'Para transferir tokens de su dirección Ethereum a otra dirección Ethereum, utilice la pestaña "Transferencia".',
   },
   deposit_withdraw_7: {
     en: "Once the Ethereum transaction has been confirmed, your balance will automatically update. If you don't have the necessary funds available for the deposit or withdraw transaction, then the Ethereum transaction will fail.",
@@ -758,19 +759,19 @@ module.exports = {
     en: 'There are no orders here.',
     cn: '这里没有显示订单。',
     fr: "Il n'y a pas d'ordres ici.",
-    es: 'No hay orden aqui.',
+    es: 'No hay órden aqui.',
   },
   no_orders_reset: {
     en: 'reset the cache',
     cn: '重设缓存',
     fr: 'Reset du cache',
-    es: 'Reiniciar el cache',
+    es: 'Reiniciar cache',
   },
   order_details: {
     en: 'Order details',
     cn: '下单明细',
     fr: "Details d'ordre",
-    es: 'Detalles del orden',
+    es: 'Detalles de órden',
   },
   expires_in: {
     en: 'Expires in',
@@ -806,7 +807,7 @@ module.exports = {
     en: 'This order will refresh when it expires unless you press',
     cn: '这单到期会刷新，除非你按',
     fr: 'Cet ordre se rafraichira quand il expire a moins que vous appuyez',
-    es: 'Esta orden se actualiza cuando expira a menos que presione',
+    es: 'Esta orden se actualizará cuando expire a menos que presione',
   },
   stop: {
     en: 'Stop',
@@ -836,13 +837,13 @@ module.exports = {
     en: 'this order with a blockchain transaction.',
     cn: '取消这单区块链交易。',
     fr: 'cet ordre avec une transaction sur la chaîne de blocs.',
-    es: 'este orden con una transacción en la cadena de bloque.',
+    es: 'esta orden con una transacción en la cadena de bloque.',
   },
   new_order: {
     en: 'New order',
     cn: '新订单',
     fr: 'Passer un ordre',
-    es: 'Pasar un orden',
+    es: 'Pasar una órden',
   },
   available_volume: {
     en: 'Available volume',
@@ -860,19 +861,19 @@ module.exports = {
     en: 'Sell order',
     cn: '卖单',
     fr: 'Ordre de vente',
-    es: 'Orden de venta',
+    es: 'Órden de venta',
   },
   buy_order: {
     en: 'Buy order',
     cn: '买单',
     fr: 'Ordre de achat',
-    es: 'Orden de compra',
+    es: 'Órden de compra',
   },
   deposit_address: {
     en: "The following address is for the token contract. It is NOT a deposit address. Do NOT send tokens to it or they will be lost forever. To deposit, use the Deposit form in the upper left. Enter the amount you want to deposit and press the 'Deposit' button.",
     cn: '以下地址用于令牌合约。 它不是一个存款地址。 不要向其发送令牌，否则将永远丢失。 要存款，请使用左上角的存款单。 输入要存入的金额，然后按“存款”按钮',
     fr: "L'adresse suivante concerne le contrat symbolique. Ce n'est PAS une adresse de dépôt. NE PAS envoyer de tokens ou ils seront perdus pour toujours. Pour déposer, utilisez le formulaire de dépôt en haut à gauche. Entrez le montant que vous souhaitez déposer et appuyez sur le bouton 'Dépôt.'",
-    es: "La siguiente dirección es para el contrato simbólico. NO es una dirección de depósito. NO envíe tokens a él o se perderán para siempre. Para depositar, use el formulario de Depósito en la esquina superior izquierda. Ingrese la cantidad que desea depositar y presione el botón 'Depósito'",
+    es: "La siguiente dirección es para el contrato token. NO es una dirección de depósito. NO envíe tokens a esta o se perderán para siempre. Para depositar, use el formulario de Depósito en la esquina superior izquierda. Ingrese la cantidad que desea depositar y presione el botón 'Depósitar'",
   },
   trades: {
     en: 'Trades',
@@ -884,7 +885,7 @@ module.exports = {
     en: 'Auto refresh',
     cn: '自动刷新',
     fr: 'Auto rafraichir',
-    es: 'Auto rafraichir',
+    es: 'Auto refrescar',
   },
   my_transactions: {
     en: 'My transactions',
@@ -902,7 +903,7 @@ module.exports = {
     en: 'Type',
     cn: '类型',
     fr: 'Taper',
-    es: 'Marcar',
+    es: 'Tipo',
   },
   question_mark: {
     en: '???',
@@ -914,7 +915,7 @@ module.exports = {
     en: 'Pending',
     cn: '待定',
     fr: 'En suspens',
-    es: 'En suspenso',
+    es: 'Pendiente',
   },
   daily: {
     en: 'Daily',
